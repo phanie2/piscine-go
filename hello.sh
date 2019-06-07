@@ -1,2 +1,2 @@
-#! / bin / sh
-echo " phanie2! "
+#!/bin/bash
+echo " Hello phanie2! "
